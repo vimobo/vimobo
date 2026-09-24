@@ -7,11 +7,11 @@ My multidisciplinary experience in audio engineering and music production has st
 
 Programming & Web
 
-Languages: Java, JavaScript, HTML, CSS, SQL
+Languages: Java, JavaScript, HTML, CSS, SQL, PHP
 
-Frameworks & Tools: Git & GitHub, VS Code, IntelliJ IDEA, NetBeans
+Frameworks & Tools: Git & GitHub, VS Code, IntelliJ IDEA, NetBeans, SpringBoot, Vue, React, Node, Angular, 
 
-Databases: MySQL
+Databases: MySQL, Oracle Db, MongoDB, Firebase
 
 Systems & Tools
 
@@ -20,11 +20,11 @@ Linux, Windows
 
  - Office & Productivity Tools
 
-Photoshop, GIMP
+Photoshop, GIMP, 
 
 Audio & Multimedia (Selective)
 
-Ableton Live, Pro Tools, Sony Vegas
+Ableton Live, Pro Tools, Sony Vegas, Resolume Arena
 
 Live sound and recording
 
