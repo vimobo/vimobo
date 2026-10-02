@@ -88,7 +88,7 @@ English — C1
 
 ## 📊 Actividad de GitHub
 
-[![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=vimbo&theme=github)](https://github.com/vimobo)
+![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=vimbo&theme=github)](https://github.com/vimobo)
 
 ##  Contact
 
