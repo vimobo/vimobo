@@ -89,6 +89,9 @@ English — C1
 ## 📊 Actividad de GitHub
 
 ![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=vimobo&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimobo&show_icons=true&theme=github_dark)
+![GitHub Contributions](https://ghchart.rshah.org/vimobo)
+
 ##  Contact
 
 If you'd like to get in touch, feel free to reach out through any of the following:
